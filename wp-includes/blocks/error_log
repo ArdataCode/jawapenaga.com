@@ -1,0 +1,8 @@
+[13-May-2024 00:55:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/jawapenaga.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/blocks/index.php on line 8
+[13-May-2024 03:32:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/jawapenaga.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/blocks/index.php on line 8

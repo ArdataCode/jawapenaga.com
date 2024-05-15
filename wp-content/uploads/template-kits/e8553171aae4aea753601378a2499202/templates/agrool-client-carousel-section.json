@@ -1,0 +1,155 @@
+{
+    "version": "0.4",
+    "title": "Agrool \u2013 Client_Carousel_Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-clients",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "5bca70e2",
+            "settings": {
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_color": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "10",
+                    "bottom": "80",
+                    "left": "10",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "10",
+                    "bottom": "60",
+                    "left": "10",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "6d974adb",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "549c406b",
+                            "settings": {
+                                "carousel_slides": [
+                                    {
+                                        "logo_carousel_slide": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/04\/wp-content\/uploads\/sites\/12\/2021\/08\/logo1.png",
+                                            "id": "313",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "b6d6060",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "logo_carousel_slide": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/04\/wp-content\/uploads\/sites\/12\/2021\/08\/log2.png",
+                                            "id": "314",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "07ec680",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "logo_carousel_slide": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/04\/wp-content\/uploads\/sites\/12\/2021\/08\/logo3.png",
+                                            "id": "312",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "3fa8c28",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "logo_carousel_slide": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/04\/wp-content\/uploads\/sites\/12\/2021\/08\/logo4.png",
+                                            "id": "311",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "0dc3e3f",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "logo_carousel_slide": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/04\/wp-content\/uploads\/sites\/12\/2021\/08\/logo1.png",
+                                            "id": "313",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "7d07509",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    }
+                                ],
+                                "items": {
+                                    "unit": "px",
+                                    "size": "5",
+                                    "sizes": []
+                                },
+                                "arrows": "",
+                                "dots": "",
+                                "logos_vertical_alignment": "center",
+                                "items_tablet": {
+                                    "unit": "px",
+                                    "size": "3",
+                                    "sizes": []
+                                },
+                                "items_mobile": {
+                                    "unit": "px",
+                                    "size": "2",
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "pp-logo-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

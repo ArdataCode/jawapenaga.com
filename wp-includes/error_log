@@ -1,0 +1,32 @@
+[13-May-2024 00:51:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/jawapenaga.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/class-wp-http.php on line 11
+[13-May-2024 00:52:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/jawapenaga.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/class-wp-scripts.php on line 18
+[13-May-2024 00:52:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/jawapenaga.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/class-wp-styles.php on line 18
+[13-May-2024 00:53:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/jawapenaga.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/template-canvas.php on line 12
+[13-May-2024 03:29:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/jawapenaga.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/class-wp-http.php on line 11
+[13-May-2024 03:29:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/jawapenaga.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/class-wp-scripts.php on line 18
+[13-May-2024 03:29:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/websit19/jawapenaga.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/class-wp-styles.php on line 18
+[13-May-2024 03:30:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/websit19/jawapenaga.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/jawapenaga.com/wp-includes/template-canvas.php on line 12
